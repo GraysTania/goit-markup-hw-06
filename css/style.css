@@ -453,6 +453,7 @@ img {
   width: 200px;
   height: 50px;
   margin: 0 auto;
+  cursor: pointer;
 
   background-color: var(--akcent-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
